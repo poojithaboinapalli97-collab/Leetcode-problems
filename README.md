@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -26,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
