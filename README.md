@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/0007-reverse-integer) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/poojithaboinapalli97-collab/Leetcode-problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
